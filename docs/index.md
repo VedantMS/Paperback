@@ -1,8 +1,7 @@
 # 📚 Paperbase
 
-**Paperbase** is a C++/Qt desktop application for managing PDF documents and
-generating bibliographies in multiple academic formats — fully offline
-and locally stored.
+**Paperbase** is a C++/Qt desktop application for managing research paper PDFs and generating bibliographies in multiple academic formats, fully offline and locally stored.
+It is designed for students, researchers, and academics who want a simple, fast, and reliable way to organize papers and export citations without relying on online services.
 
 ---
 
@@ -20,15 +19,15 @@ and locally stored.
 
 ## ⬇️ Download
 
-👉 **Download the latest installer:**  
-[Paperbase Releases](https://github.com/<your-username>/Paperbase/releases)
+**Download the latest installer:**  
+[Paperbase Releases](https://github.com/VedantMS/Paperbase/releases)
 
 ---
 
 ## 💻 Source Code
 
-📦 GitHub Repository:  
-https://github.com/<your-username>/Paperbase
+GitHub Repository:  
+https://github.com/VedantMS/Paperbase
 
 ---
 
