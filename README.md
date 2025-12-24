@@ -41,7 +41,8 @@ It is designed for **students, researchers, and academics** who want a simple, f
 4. View saved papers in the table
 5. Select papers using checkboxes
 6. Generate bibliography in the desired format
-7. Copy or export the bibliography as needed
+7. Bibliography can be converted into LaTeX `\bibitem`
+8. Copy or export the bibliography as needed
 
 ---
 
@@ -69,7 +70,6 @@ It is designed for **students, researchers, and academics** who want a simple, f
 ## 📄 License
 
 MIT License
-(You may replace this with another license if desired.)
 
 ---
 
@@ -86,3 +86,9 @@ MIT License
 * Source code and binaries are distributed separately
 * There is no user data that is collected, transmitted, or stored outside the local system
 * Installer is available via GitHub Releases
+
+---
+
+
+
+
