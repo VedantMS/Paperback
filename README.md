@@ -115,12 +115,3 @@ MIT License
 * Installer is available via GitHub Releases
 
 ---
-
-If you want next, I can help you:
-
-* add **screenshots** to this README
-* write a **resume-ready project description**
-* add a **LICENSE file**
-* prepare a **project report / documentation PDF**
-
-Just tell me 👍
