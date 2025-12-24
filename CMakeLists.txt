@@ -31,9 +31,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
 
-        core/paper.cpp
         core/paper.h
-        core/paper_manager.cpp
         core/paper_manager.h
 
         storage/json_utils.cpp
@@ -97,5 +95,6 @@ install(TARGETS Paperbase
 target_include_directories(Paperbase PRIVATE
     ${CMAKE_SOURCE_DIR}/external
 )
+
 
 
