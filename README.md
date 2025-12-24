@@ -1,6 +1,6 @@
 # 📚 Paperbase
 
-**Paperbase** is a modern desktop application for managing research papers (PDFs) and generating bibliographies in multiple academic formats — all **offline**, **locally**, and **without external dependencies**.
+**Paperbase** is a modern desktop application for managing research papers (PDFs) and generating bibliographies in multiple academic formats, all **offline**, **locally**, and **without external dependencies**.
 
 It is designed for **students, researchers, and academics** who want a simple, fast, and reliable way to organize papers and export citations without relying on online services.
 
