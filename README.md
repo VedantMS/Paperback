@@ -9,31 +9,15 @@ It is designed for **students, researchers, and academics** who want a simple, f
 ## ✨ Key Features
 
 * 📂 Select a root folder containing research PDF files
-* 📝 Add and edit rich metadata:
-
-  * Title
-  * Authors
-  * Year
-  * Journal / Publisher
-  * DOI
-  * URL
-  * Tags
+* 📝 Add and edit metadata
 * 💾 Persistent local storage using JSON
 * 📄 Open PDFs directly from within the application
 * ☑️ Select multiple papers using checkboxes
-* 🧾 Generate bibliographies in multiple formats:
-
-  * Plain
-  * IEEE
-  * APA
-  * Springer
-  * Chicago
-  * MLA
-  * BibTeX
+* 🧾 Generate bibliographies in multiple formats
 * 📐 LaTeX `\bibitem{}` output support
 * 📋 Copy bibliography to clipboard
 * 📤 Export bibliography to a text file
-* 🔒 Fully offline & local-first (no internet required)
+* 🔒 Fully offline & local-first
 * ⚡ Lightweight, fast, and easy to use
 
 ---
