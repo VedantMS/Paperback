@@ -82,7 +82,7 @@ MIT License
 ## ⭐ Notes
 
 * This project follows **Qt and CMake best practices**
+* Paperbase uses the Qt framework under the GNU Lesser General Public License (LGPL) v3
 * Source code and binaries are distributed separately
+* There is no user data that is collected, transmitted, or stored outside the local system
 * Installer is available via GitHub Releases
-
----
